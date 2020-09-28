@@ -5,7 +5,7 @@
    - **1x** [15A Power Connector with Rocker-Switch and Fuse](https://www.amazon.com/dp/B08CDSXWXF)
  - **1x** [Emergency Stop Switch](https://www.amazon.com/dp/B086HRQ2L4)
  - Alternate Buck Mode PSU **(Currently capped at 750W (To save money $$$) )**
-   - **1x** [60V 20A 1200W DC Power Supply](https://www.amazon.com/dp/B07HNZW3YW)
+   - **1x** [60V 20A 1200W AC-to-DC Power Supply](https://www.amazon.com/dp/B07HNZW3YW)
    - **1x** [(Fancy Screen) DC 6-60V Step Down to DC 0-50V 15A 750W](https://www.amazon.com/dp/B0744BT79M)
  - Boost Mode PSU
    - **1x** [1500W Voltage Regulator Booster DC 10-60V Step Up to 12-90V 20A](https://www.amazon.com/dp/B076TTBKFG)
