@@ -4,7 +4,7 @@
    - **1x** [15A Power Connector with Fuse](https://www.amazon.com/dp/B081ZFHRGW)
    - **1x** [15A Power Connector with Rocker-Switch and Fuse](https://www.amazon.com/dp/B08CDSXWXF)
  - **1x** [Emergency Stop Switch](https://www.amazon.com/dp/B086HRQ2L4)
- - **1x** [60V 20A 1200W DC Power Supply](https://www.amazon.com/dp/B07HNZW3YW)
+ - **1x** [60V 20A 1200W AC-to-DC Power Supply](https://www.amazon.com/dp/B07HNZW3YW)
  - Power Metering:
    - ~~**1x** [Voltage Current Display](https://www.amazon.com/dp/B07QVXXGVR)~~
      - *This readout is slow. Let's use analog ones so that they're fast, maybe.*
