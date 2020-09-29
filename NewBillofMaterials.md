@@ -1,4 +1,10 @@
 ## *NEW* Bill of Materials for Dad's Melt'o'Matic
+
+### CONSIDER THESE BENCH POWER SUPPLIES
+ - [30v 10A Bench Power Supply](https://www.amazon.com/dp/B073TW8H2S)
+ - [30v 10A Bench Power Supply](https://www.amazon.com/dp/B07X2VZSL9)
+ 
+### More conventional BoM
  - **1x** [6ft 10A Power Cord](https://www.amazon.com/dp/B072BYGKZZ)
  - Power Connector:
    - **1x** [15A Power Connector with Fuse](https://www.amazon.com/dp/B081ZFHRGW)
